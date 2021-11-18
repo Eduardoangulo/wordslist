@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3E5659B7-7379-4A77-BC8C-AC68A7B81846}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wordslist/ProcessingWords.cs">
+    <Files>
+      <File FileName="wordslist/Program.cs" Line="13" Column="1" />
+      <File FileName="wordslist/ProcessingWords.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="wordslist" expanded="True">
+            <Node name="wordslist" expanded="True">
+              <Node name="ProcessingWords.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.wordslist PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

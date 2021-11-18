@@ -1,0 +1,15 @@
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/bin/Debug/net5.0/wordslist.deps.json
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/bin/Debug/net5.0/wordslist.runtimeconfig.json
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/bin/Debug/net5.0/wordslist.runtimeconfig.dev.json
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/bin/Debug/net5.0/wordslist.dll
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/bin/Debug/net5.0/ref/wordslist.dll
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/bin/Debug/net5.0/wordslist.pdb
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.AssemblyInfoInputs.cache
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.AssemblyInfo.cs
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.csproj.CoreCompileInputs.cache
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.dll
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/ref/wordslist.dll
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.pdb
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.genruntimeconfig.cache
+/Users/eduardoanguloluna/Projects/wordslist/wordslist/obj/Debug/net5.0/wordslist.csprojAssemblyReference.cache

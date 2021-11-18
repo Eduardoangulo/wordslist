@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordslist", "wordslist\wordslist.csproj", "{3E5659B7-7379-4A77-BC8C-AC68A7B81846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5659B7-7379-4A77-BC8C-AC68A7B81846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5659B7-7379-4A77-BC8C-AC68A7B81846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5659B7-7379-4A77-BC8C-AC68A7B81846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5659B7-7379-4A77-BC8C-AC68A7B81846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A38B6F9-D402-4B76-8D40-2C8643ED0F60}
+	EndGlobalSection
+EndGlobal
